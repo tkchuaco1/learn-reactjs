@@ -1,0 +1,329 @@
+<ul class="navigation list-group list-group-flush scroll">
+  <li class="menu-item list-group-item">
+    <a href="/collections/all" class="menu-item__link" title="Tất Cả Sản Phẩm">
+      <img
+        width="24"
+        height="24"
+        src="//bizweb.dktcdn.net/100/463/492/themes/878811/assets/menu_icon_1.png?1692263722316"
+        alt="Tất Cả Sản Phẩm"
+      />
+      <span>Tất Cả Sản Phẩm</span>
+    </a>
+  </li>
+
+  <li class="menu-item list-group-item">
+    <a
+      href="/hong-sam-han-quoc"
+      class="menu-item__link"
+      title="Hồng sâm Hàn Quốc"
+    >
+      <img
+        width="24"
+        height="24"
+        src="//bizweb.dktcdn.net/100/463/492/themes/878811/assets/menu_icon_2.png?1692263722316"
+        alt="Hồng sâm Hàn Quốc"
+      />
+      <span>Hồng sâm Hàn Quốc</span>
+
+      <i class="float-right" data-toggle-submenu="">
+        <svg class="icon">
+          <use xlink:href="#icon-arrow"></use>
+        </svg>
+      </i>
+    </a>
+
+    <div class="submenu scroll">
+      <div class="toggle-submenu d-lg-none d-xl-none">
+        <i class="mr-3">
+          <svg class="icon" style="transform: rotate(180deg)">
+            <use xlink:href="#icon-arrow"></use>
+          </svg>
+        </i>
+        <span>Hồng sâm Hàn Quốc </span>
+      </div>
+      <ul class="submenu__list">
+        <li class="submenu__item submenu__item--main">
+          <a class="link" href="/hong-sam-cu-kho" title="Hồng Sâm Củ Khô"
+            >Hồng Sâm Củ Khô</a
+          >
+        </li>
+
+        <li class="submenu__item submenu__item--main">
+          <a class="link" href="/hong-sam-linh-dan" title="Hồng Sâm Linh Đan"
+            >Hồng Sâm Linh Đan</a
+          >
+        </li>
+
+        <li class="submenu__item submenu__item--main">
+          <a class="link" href="/cao-hong-sam" title="Cao Hồng Sâm"
+            >Cao Hồng Sâm</a
+          >
+        </li>
+
+        <li class="submenu__item submenu__item--main">
+          <a class="link" href="/tinh-chat-nhan-sam" title="Tinh Chất Hồng Sâm"
+            >Tinh Chất Hồng Sâm</a
+          >
+        </li>
+
+        <li class="submenu__item submenu__item--main">
+          <a class="link" href="/nuoc-hong-sam" title="Nước Hồng Sâm"
+            >Nước Hồng Sâm</a
+          >
+        </li>
+
+        <li class="submenu__item submenu__item--main">
+          <a class="link" href="/bot-hong-sam" title="Bột Hồng Sâm"
+            >Bột Hồng Sâm</a
+          >
+        </li>
+
+        <li class="submenu__item submenu__item--main">
+          <a class="link" href="/vien-hong-sam" title="Viên Hồng Sâm"
+            >Viên Hồng Sâm</a
+          >
+        </li>
+
+        <li class="submenu__item submenu__item--main">
+          <a class="link" href="/hong-sam-pha-san" title="Hồng Sâm Pha Sẵn"
+            >Hồng Sâm Pha Sẵn</a
+          >
+        </li>
+
+        <li class="submenu__item submenu__item--main">
+          <a
+            class="link"
+            href="/hong-sam-tam-mat-ong"
+            title="Hồng Sâm Tẩm Mật Ong"
+            >Hồng Sâm Tẩm Mật Ong</a
+          >
+        </li>
+
+        <li class="submenu__item submenu__item--main">
+          <a class="link" href="/hong-sam-tre-em" title="Hồng Sâm Trẻ Em"
+            >Hồng Sâm Trẻ Em</a
+          >
+        </li>
+      </ul>
+    </div>
+  </li>
+
+  <li class="menu-item list-group-item">
+    <a
+      href="/dong-trung-ha-thao"
+      class="menu-item__link"
+      title="Đông Trùng Hạ Thảo"
+    >
+      <img
+        width="24"
+        height="24"
+        src="//bizweb.dktcdn.net/100/463/492/themes/878811/assets/menu_icon_3.png?1692263722316"
+        alt="Đông Trùng Hạ Thảo"
+      />
+      <span>Đông Trùng Hạ Thảo</span>
+
+      <i class="float-right" data-toggle-submenu="">
+        <svg class="icon">
+          <use xlink:href="#icon-arrow"></use>
+        </svg>
+      </i>
+    </a>
+
+    <div class="submenu scroll">
+      <div class="toggle-submenu d-lg-none d-xl-none">
+        <i class="mr-3">
+          <svg class="icon" style="transform: rotate(180deg)">
+            <use xlink:href="#icon-arrow"></use>
+          </svg>
+        </i>
+        <span>Đông Trùng Hạ Thảo </span>
+      </div>
+      <ul class="submenu__list">
+        <li class="submenu__item submenu__item--main">
+          <a
+            class="link"
+            href="/dong-trung-ha-thao-tu-nhien-na-khuc-tay-tang-vip"
+            title="Đông Trùng Hạ Thảo Tự Nhiên"
+            >Đông Trùng Hạ Thảo Tự Nhiên</a
+          >
+        </li>
+
+        <li class="submenu__item submenu__item--main">
+          <a
+            class="link"
+            href="/vien-dong-trung-ha-thao"
+            title="Viên Đông Trùng Hạ Thảo"
+            >Viên Đông Trùng Hạ Thảo</a
+          >
+        </li>
+
+        <li class="submenu__item submenu__item--main">
+          <a
+            class="link"
+            href="/tinh-chat-dong-trung-ha-thao"
+            title="Tinh Chất Đông Trùng Hạ Thảo"
+            >Tinh Chất Đông Trùng Hạ Thảo</a
+          >
+        </li>
+      </ul>
+    </div>
+  </li>
+
+  <li class="menu-item list-group-item">
+    <a
+      href="/an-cung-nguu-hoang-hoan-han-quoc"
+      class="menu-item__link"
+      title="An Cung Ngưu Hoàng"
+    >
+      <img
+        width="24"
+        height="24"
+        src="//bizweb.dktcdn.net/100/463/492/themes/878811/assets/menu_icon_4.png?1692263722316"
+        alt="An Cung Ngưu Hoàng"
+      />
+      <span>An Cung Ngưu Hoàng</span>
+
+      <i class="float-right" data-toggle-submenu="">
+        <svg class="icon">
+          <use xlink:href="#icon-arrow"></use>
+        </svg>
+      </i>
+    </a>
+
+    <div class="submenu scroll">
+      <div class="toggle-submenu d-lg-none d-xl-none">
+        <i class="mr-3">
+          <svg class="icon" style="transform: rotate(180deg)">
+            <use xlink:href="#icon-arrow"></use>
+          </svg>
+        </i>
+        <span>An Cung Ngưu Hoàng </span>
+      </div>
+      <ul class="submenu__list">
+        <li class="submenu__item submenu__item--main">
+          <a class="link" href="/an-cung-chinh-phu" title="An Cung Chính Phủ"
+            >An Cung Chính Phủ</a
+          >
+        </li>
+
+        <li class="submenu__item submenu__item--main">
+          <a class="link" href="/an-cung-noi-dia" title="An Cung Nội Địa"
+            >An Cung Nội Địa</a
+          >
+        </li>
+      </ul>
+    </div>
+  </li>
+
+  <li class="menu-item list-group-item">
+    <a
+      href="/tinh-dau-thong-do"
+      class="menu-item__link"
+      title="Tinh Dầu Thông Đỏ"
+    >
+      <img
+        width="24"
+        height="24"
+        src="//bizweb.dktcdn.net/100/463/492/themes/878811/assets/menu_icon_5.png?1692263722316"
+        alt="Tinh Dầu Thông Đỏ"
+      />
+      <span>Tinh Dầu Thông Đỏ</span>
+
+      <i class="float-right" data-toggle-submenu="">
+        <svg class="icon">
+          <use xlink:href="#icon-arrow"></use>
+        </svg>
+      </i>
+    </a>
+
+    <div class="submenu scroll">
+      <div class="toggle-submenu d-lg-none d-xl-none">
+        <i class="mr-3">
+          <svg class="icon" style="transform: rotate(180deg)">
+            <use xlink:href="#icon-arrow"></use>
+          </svg>
+        </i>
+        <span>Tinh Dầu Thông Đỏ </span>
+      </div>
+      <ul class="submenu__list">
+        <li class="submenu__item submenu__item--main">
+          <a
+            class="link"
+            href="/tinh-dau-thong-do-chinh-phu"
+            title="Tinh Dầu Thông Đỏ Chính Phủ"
+            >Tinh Dầu Thông Đỏ Chính Phủ</a
+          >
+        </li>
+
+        <li class="submenu__item submenu__item--main">
+          <a
+            class="link"
+            href="/tinh-dau-thong-do-noi-dia"
+            title="Tinh Dầu Thông Đỏ Nội Địa"
+            >Tinh Dầu Thông Đỏ Nội Địa</a
+          >
+        </li>
+      </ul>
+    </div>
+  </li>
+
+  <li class="menu-item list-group-item">
+    <a
+      href="/nam-han-quoc-cao-cap"
+      class="menu-item__link"
+      title="Nấm Linh Chi Núi"
+    >
+      <img
+        width="24"
+        height="24"
+        src="//bizweb.dktcdn.net/100/463/492/themes/878811/assets/menu_icon_6.png?1692263722316"
+        alt="Nấm Linh Chi Núi"
+      />
+      <span>Nấm Linh Chi Núi</span>
+    </a>
+  </li>
+
+  <li class="menu-item list-group-item">
+    <a
+      href="/thuc-pham-chuc-nang-han-quoc"
+      class="menu-item__link"
+      title="Thực Phẩm Chức Năng"
+    >
+      <img
+        width="24"
+        height="24"
+        src="//bizweb.dktcdn.net/100/463/492/themes/878811/assets/menu_icon_7.png?1692263722316"
+        alt="Thực Phẩm Chức Năng"
+      />
+      <span>Thực Phẩm Chức Năng</span>
+    </a>
+  </li>
+
+  <li class="menu-item list-group-item">
+    <a href="/my-pham-lam-dep" class="menu-item__link" title="Mỹ Phẩm Làm Đẹp">
+      <img
+        width="24"
+        height="24"
+        src="//bizweb.dktcdn.net/100/463/492/themes/878811/assets/menu_icon_8.png?1692263722316"
+        alt="Mỹ Phẩm Làm Đẹp"
+      />
+      <span>Mỹ Phẩm Làm Đẹp</span>
+    </a>
+  </li>
+
+  <li class="menu-item list-group-item">
+    <a
+      href="/qua-tang-thuong-hang"
+      class="menu-item__link"
+      title="Quà Tặng Thượng Hạng"
+    >
+      <img
+        width="24"
+        height="24"
+        src="//bizweb.dktcdn.net/100/463/492/themes/878811/assets/menu_icon_9.png?1692263722316"
+        alt="Quà Tặng Thượng Hạng"
+      />
+      <span>Quà Tặng Thượng Hạng</span>
+    </a>
+  </li>
+</ul>
