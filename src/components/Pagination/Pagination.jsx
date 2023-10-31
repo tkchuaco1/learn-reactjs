@@ -91,7 +91,6 @@ class Pagination extends Component {
     
      const pagesCount = pages.length;
      const singleSpillOffset = totalNumbers - pagesCount - 1;
-     console.log(pagesCount)
 
      const leftSpill = startPage > 2;
      const rightSpill = endPage < beforeLastPage;

@@ -35,11 +35,11 @@ function ListPage(props) {
         data: {},
         page: 1,
         limit: 8,
-        total: 120,
+        total: 8,
     });
     const [filters, setFilter] = useState({
-        _page: 1,
-        _limit: 8
+        page: 1,
+        limit: 8
     });
     useEffect(() => {
         (async () => {

@@ -10,21 +10,18 @@ const productApi = {
         // Remove un-needed key
         delete newParams._page;
         // Fetch product list + count
-        const productList = await axiosClient.get('/products', {
+        const productList = await axiosClient.get('/schools', {
             params:
                 newParams
         });
-        const count = await axiosClient.get('/products/count', {
-            params:
-                newParams
-        });
+        
         // Build response and return
         return {
             data: productList,
             pagination: {
                 page: params._page,
                 limit: params._limit,
-                total: count
+                total: productList.object.docs.total
             }
         }
     }

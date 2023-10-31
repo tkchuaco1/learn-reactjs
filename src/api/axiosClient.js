@@ -5,6 +5,7 @@ const axiosClient = axios.create({
     baseURL: `${STATIC_HOST}`,
     headers: {
         'Content-Type': 'application/json',
+        'Authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2NTJjZTM2NjQ1MGNkNjlhYTliNGY4NjEiLCJpYXQiOjE2OTg3MjEyMjgsImV4cCI6MTY5ODcyMTgyOCwidHlwZSI6ImFjY2VzcyJ9.-RDt4EvFdL989UkhvHBPAu0KClvm6mMBDwrC2qp0GE8'
     }
 });
 
